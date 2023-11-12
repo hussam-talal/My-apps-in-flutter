@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47410517357",
+    "project_id": "autonjm-d1e6d",
+    "storage_bucket": "autonjm-d1e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47410517357:android:e214b791993789913cb664",
+        "android_client_info": {
+          "package_name": "com.example.autonjm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxhFNNEGcw9a9lr7-rN22mFjY7xKnS10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
